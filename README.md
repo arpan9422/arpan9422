@@ -21,31 +21,21 @@
 
 ## 📌 **Projects**  
 
-### 🌐 [PasteRoom](https://github.com/your-username/PasteRoom)  
+### 🌐 [PasteRoom](www.pasteroom.live)  
 **Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Google Cloud, Azure  
 - A **real-time file and text-sharing platform** with virtual rooms (**No login required**)  
 - Implemented **unique Room ID generation** for secure collaboration  
 - **673 users in 1 month** | **Ranked #1 in SEO**  
 
-### 📊 [Personal Finance Dashboard](https://github.com/your-username/Personal-Finance-Dashboard)  
+### 📊 [Personal Finance Dashboard](https://github.com/arpan9422/Web_Wizards_PISB_TechRush_2024)  
 **Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Google Cloud, Azure  
 - A web-based **expense tracking platform** with detailed financial analysis  
 - Users can **set financial goals** and calculate **FD/RD**  
 
-### 🧠 [SkillMatch](https://github.com/your-username/SkillMatch)  
+### 🧠 [SkillMatch] 
 **Tools:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
 - An **adaptive quiz platform** that generates **personalized AI-powered roadmaps**  
 - Helps users **prepare for AMCAT exams**  
-
-### ⚖️ [AI-Powered Legal Assistant](https://github.com/your-username/AI-Legal-Assistant)  
-**Tools:** Next.js, Tailwind CSS, Node.js, OpenAI API, Google Cloud, MongoDB  
-- A **virtual legal assistant** for document creation, legal research, and date management  
-- Supports **AI-generated legal documents & E-signatures**  
-
-### 🚌 [Automated Bus Scheduling System](https://github.com/your-username/Bus-Scheduling-System)  
-**Tools:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, GIS APIs  
-- Optimizes **bus scheduling & route planning** for public transport  
-- Integrates **AI-based duty scheduling and real-time analytics**  
 
 ---
 
