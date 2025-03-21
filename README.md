@@ -23,6 +23,12 @@
 
 ### 🌐 [PasteRoom](www.pasteroom.live)  
 **Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Google Cloud, Azure  
+- An automated student result analysis platform for **SPPU results**  
+- Integrated API to fetch and process result data from SPPU
+- **35K+ clicks within 2 hours**, demonstrating high user engagement
+
+### 🌐 [CampusResult](www.campusresult.live)  
+**Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, 
 - A **real-time file and text-sharing platform** with virtual rooms (**No login required**)  
 - Implemented **unique Room ID generation** for secure collaboration  
 - **673 users in 1 month** | **Ranked #1 in SEO**  
