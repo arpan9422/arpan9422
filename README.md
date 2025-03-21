@@ -55,13 +55,10 @@
 ---
 
 ## 📬 **Let's Connect!**  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 🏢 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com  
-- 🐦 [Twitter/X](https://twitter.com/your-profile)  
+- 🏢 [LinkedIn](https://linkedin.com/in/arpan-agrawal-2a65a7275)  
+- 📧 Email: arpanagrawal552@gmail.com 
 
 ---
 
 🚀 **I love building innovative projects & collaborating with like-minded developers! Feel free to connect!**  
 
-](https://github.com/arpan9422)
