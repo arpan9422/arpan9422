@@ -1,4 +1,4 @@
-[<h1 align="center">Hi there, I'm Arpan Agrawal 👋</h1>  
+<h1 align="center">Hi there, I'm Arpan Agrawal 👋</h1>  
 <h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | UI/UX Designer</h3>  
 
 <p align="center">
