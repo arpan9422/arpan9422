@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>  
+[<h1 align="center">Hi there, I'm Arpan Agrawal 👋</h1>  
 <h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | UI/UX Designer</h3>  
 
 <p align="center">
@@ -68,3 +68,4 @@
 
 🚀 **I love building innovative projects & collaborating with like-minded developers! Feel free to connect!**  
 
+](https://github.com/arpan9422)
