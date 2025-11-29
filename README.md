@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arpan Agrawal 👋</h1>  
-<h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | UI/UX Designer</h3>  
+<h3 align="center">AI & Full-Stack Developer | UI/UX Designer</h3>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-React.js-blue?style=for-the-badge&logo=react" />
