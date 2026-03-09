@@ -1,64 +1,158 @@
-<h1 align="center">Hi there, I'm Arpan Agrawal 👋</h1>  
-<h3 align="center">AI & Full-Stack Developer | UI/UX Designer</h3>  
+<h1 align="center">Hi 👋, I'm Arpan Agrawal</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-React.js-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-orange?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure" />
-</p>  
+  <a href="https://github.com/arpan9422">
+    <img src="https://img.shields.io/github/followers/arpan9422?label=GitHub&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/arpan-agrawal-2a65a7275">
+    <img src="https://img.shields.io/badge/LinkedIn-Arpan%20Agrawal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/AI%20Engineer-RAG%20%7C%20LLMs-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 **About Me**  
-- 🎓 **2nd-year ENTC student** passionate about **Full-Stack Development & AI**  
-- 💡 Interested in **AI-powered applications, web development, and problem-solving**  
-- 🔥 Skilled in **React.js, Node.js, Express.js, MongoDB, TailwindCSS, and Cloud Services**  
-- 🚀 **Building innovative projects** and open to collaborations  
+# 🚀 About Me
+
+🎓 **B.E. Electronics & Telecommunication** — Pune Institute of Computer Technology  
+📊 **CGPA:** 9.68  
+
+💡 I love building **AI-powered products, scalable backend systems, and developer tools.**
+
+Currently working on:
+
+- 🤖 **RAG pipelines**
+- 🧠 **LLM applications**
+- ⚡ **High-performance Node.js backends**
+- 🌐 **AI developer platforms**
+
+I enjoy turning **complex AI ideas into real-world products.**
 
 ---
 
-## 📌 **Projects**  
+# 💼 Experience
 
-### 🌐 [PasteRoom](www.pasteroom.live)  
-**Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Google Cloud, Azure  
-- An automated student result analysis platform for **SPPU results**  
-- Integrated API to fetch and process result data from SPPU
-- **35K+ clicks within 2 hours**, demonstrating high user engagement
+## **Full Stack Developer Intern — Script Lanes**
+📍 Pune, India | June 2025 – Present  
 
-### 🌐 [CampusResult](www.campusresult.live)  
-**Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, 
-- A **real-time file and text-sharing platform** with virtual rooms (**No login required**)  
-- Implemented **unique Room ID generation** for secure collaboration  
-- **673 users in 1 month** | **Ranked #1 in SEO**  
-
-### 📊 [Personal Finance Dashboard](https://github.com/arpan9422/Web_Wizards_PISB_TechRush_2024)  
-**Tools:** Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Google Cloud, Azure  
-- A web-based **expense tracking platform** with detailed financial analysis  
-- Users can **set financial goals** and calculate **FD/RD**  
-
-### 🧠 [SkillMatch] 
-**Tools:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
-- An **adaptive quiz platform** that generates **personalized AI-powered roadmaps**  
-- Helps users **prepare for AMCAT exams**  
+- Built **20+ production REST APIs** using **Node.js, TypeScript, Prisma, PostgreSQL**
+- Worked on **AI healthcare assistants**: **OrthoAI & FlourishAI**
+- Designed **RAG pipelines using LangChain**
+- Implemented **vector database based semantic retrieval**
+- Improved **chatbot contextual accuracy and response performance**
 
 ---
 
-## 🛠 **Tech Stack & Skills**  
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js, MongoDB, Firebase  
-- **AI & ML:** OpenAI API, Llama, Hugging Face  
-- **Cloud & DevOps:** Google Cloud, Azure, Vercel, Docker  
-- **Other Skills:** UI/UX Design, Git, REST APIs, WebSockets  
+# 🚀 Featured Projects
+
+## 🌐 StackWise
+**Tech:** React, TypeScript, Node.js, Supabase, Pinecone, AWS, RAG, AI Agents  
+
+AI-powered platform that aggregates engineering blogs from companies like **Google, Netflix, Meta, AWS and Stripe**.
+
+Features:
+- Automated **engineering blog ingestion pipeline**
+- **RAG-based summarization system**
+- **Semantic search using vector embeddings**
+- AI-generated **developer insights**
+
+🔗 https://stackwise.in
 
 ---
 
-## 📬 **Let's Connect!**  
-- 🏢 [LinkedIn](https://linkedin.com/in/arpan-agrawal-2a65a7275)  
-- 📧 Email: arpanagrawal552@gmail.com 
+## 🧠 Udemy-RAG
+**Tech:** Python, Node.js, Vector DB, RAG, Web Scraping, LLMs  
+
+AI course assistant that converts **Udemy courses into a private knowledge base**.
+
+Features:
+- Scrapes **course resources (PDFs, images, code)**
+- Generates **vector embeddings**
+- Provides **AI revision chatbot**
+- Answers questions with **source citations**
+
+🔗 https://github.com/arpan9422/udemy-rag
 
 ---
 
-🚀 **I love building innovative projects & collaborating with like-minded developers! Feel free to connect!**  
+## 📂 PasteRoom
+**Tech:** React, Node.js, Express, MongoDB, TailwindCSS, Google Cloud, Azure  
 
+Real-time **file & text sharing platform** with virtual rooms.
+
+Features:
+- **No login required**
+- **Secure Room ID based sharing**
+- Real-time collaboration
+
+📈 **673+ users in the first month**  
+📈 **Ranked #1 on Google for multiple keywords**
+
+🔗 https://pasteroom.in
+
+---
+
+# 🧰 Tech Stack
+
+### 👨‍💻 Languages
+JavaScript • TypeScript • Python • Java • C++
+
+### 🌐 Frontend
+React • Next.js • TailwindCSS • HTML • CSS
+
+### ⚙️ Backend
+Node.js • Express.js • Flask • Prisma
+
+### 🤖 AI / ML
+RAG • LangChain • Vector Databases • LLM APIs • HuggingFace
+
+### 🗄 Databases
+MongoDB • PostgreSQL • MySQL • Supabase • Pinecone
+
+### ☁️ Cloud & DevOps
+AWS • Azure • Google Cloud • Docker • Vercel
+
+### 🛠 Tools
+Git • GitHub • Postman • Swagger • Figma
+
+---
+
+# 🏆 Achievements
+
+🏅 **Tech Head** — Techfiesta '26 (College flagship hackathon)
+
+🏅 **Rank 44** — Bajaj Finserv HackRx '25 (1000+ teams)
+
+🏅 **Top 100** — Google GenAI Exchange Hackathon
+
+🏅 **Top 10 Teams** — i.mobilothon 5.0 (Volkswagen)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arpan9422&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan9422&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** arpanagrawal552@gmail.com  
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/arpan-agrawal-2a65a7275  
+
+💻 **GitHub:**  
+https://github.com/arpan9422  
+
+---
+
+⭐ *I enjoy building AI products, developer tools and scalable backend systems.  
+Always open to interesting collaborations.*
