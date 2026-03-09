@@ -1,158 +1,160 @@
-<h1 align="center">Hi 👋, I'm Arpan Agrawal</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Builder</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/arpan9422">
-    <img src="https://img.shields.io/github/followers/arpan9422?label=GitHub&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/arpan-agrawal-2a65a7275">
-    <img src="https://img.shields.io/badge/LinkedIn-Arpan%20Agrawal-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/AI%20Engineer-RAG%20%7C%20LLMs-orange?style=for-the-badge"/>
-</p>
+# Arpan Agrawal
 
----
+### AI Engineer · Full Stack Developer · Builder
 
-# 🚀 About Me
+<a href="https://github.com/arpan9422"><img src="https://img.shields.io/badge/GitHub-arpan9422-000000?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/arpan-agrawal-2a65a7275"><img src="https://img.shields.io/badge/LinkedIn-Arpan%20Agrawal-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:arpanagrawal552@gmail.com"><img src="https://img.shields.io/badge/Email-arpanagrawal552@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-🎓 **B.E. Electronics & Telecommunication** — Pune Institute of Computer Technology  
-📊 **CGPA:** 9.68  
-
-💡 I love building **AI-powered products, scalable backend systems, and developer tools.**
-
-Currently working on:
-
-- 🤖 **RAG pipelines**
-- 🧠 **LLM applications**
-- ⚡ **High-performance Node.js backends**
-- 🌐 **AI developer platforms**
-
-I enjoy turning **complex AI ideas into real-world products.**
+</div>
 
 ---
 
-# 💼 Experience
+## About
 
-## **Full Stack Developer Intern — Script Lanes**
-📍 Pune, India | June 2025 – Present  
+**B.E. Electronics & Telecommunication** — Pune Institute of Computer Technology &nbsp;·&nbsp; **CGPA: 9.68**
 
-- Built **20+ production REST APIs** using **Node.js, TypeScript, Prisma, PostgreSQL**
-- Worked on **AI healthcare assistants**: **OrthoAI & FlourishAI**
-- Designed **RAG pipelines using LangChain**
-- Implemented **vector database based semantic retrieval**
-- Improved **chatbot contextual accuracy and response performance**
+I build AI-powered products, scalable backend systems, and developer tools. My focus is turning complex AI ideas into real-world, production-grade applications.
+
+Currently working on **RAG pipelines**, **LLM applications**, **high-performance Node.js backends**, and **AI developer platforms**.
 
 ---
 
-# 🚀 Featured Projects
+## Experience
 
-## 🌐 StackWise
-**Tech:** React, TypeScript, Node.js, Supabase, Pinecone, AWS, RAG, AI Agents  
+### Full Stack Developer Intern — Script Lanes
+![Location](https://img.shields.io/badge/Pune,%20India-000?style=flat-square&logo=googlemaps&logoColor=white) &nbsp; ![Duration](https://img.shields.io/badge/June%202025–Present-000?style=flat-square&logo=clockify&logoColor=white)
 
-AI-powered platform that aggregates engineering blogs from companies like **Google, Netflix, Meta, AWS and Stripe**.
-
-Features:
-- Automated **engineering blog ingestion pipeline**
-- **RAG-based summarization system**
-- **Semantic search using vector embeddings**
-- AI-generated **developer insights**
-
-🔗 https://stackwise.in
+Built **20+ production REST APIs** using Node.js, TypeScript, Prisma, and PostgreSQL. Worked on AI healthcare assistants **OrthoAI** and **FlourishAI**, designing RAG pipelines with LangChain and implementing vector database-based semantic retrieval to improve chatbot contextual accuracy and response performance.
 
 ---
 
-## 🧠 Udemy-RAG
-**Tech:** Python, Node.js, Vector DB, RAG, Web Scraping, LLMs  
+## Projects
 
-AI course assistant that converts **Udemy courses into a private knowledge base**.
+### StackWise
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=white)
 
-Features:
-- Scrapes **course resources (PDFs, images, code)**
-- Generates **vector embeddings**
-- Provides **AI revision chatbot**
-- Answers questions with **source citations**
+An AI-powered platform aggregating engineering blogs from Google, Netflix, Meta, AWS, and Stripe. Features an automated blog ingestion pipeline, RAG-based summarization, semantic search via vector embeddings, and AI-generated developer insights.
 
-🔗 https://github.com/arpan9422/udemy-rag
-
----
-
-## 📂 PasteRoom
-**Tech:** React, Node.js, Express, MongoDB, TailwindCSS, Google Cloud, Azure  
-
-Real-time **file & text sharing platform** with virtual rooms.
-
-Features:
-- **No login required**
-- **Secure Room ID based sharing**
-- Real-time collaboration
-
-📈 **673+ users in the first month**  
-📈 **Ranked #1 on Google for multiple keywords**
-
-🔗 https://pasteroom.in
+[![Live](https://img.shields.io/badge/Live-stackwise.in-000?style=flat-square&logo=vercel&logoColor=white)](https://stackwise.in)
 
 ---
 
-# 🧰 Tech Stack
+### Udemy-RAG
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white)
 
-### 👨‍💻 Languages
-JavaScript • TypeScript • Python • Java • C++
+Converts Udemy courses into a private, searchable knowledge base. Scrapes course resources (PDFs, images, code), generates vector embeddings, and provides an AI revision chatbot that answers questions with source citations.
 
-### 🌐 Frontend
-React • Next.js • TailwindCSS • HTML • CSS
-
-### ⚙️ Backend
-Node.js • Express.js • Flask • Prisma
-
-### 🤖 AI / ML
-RAG • LangChain • Vector Databases • LLM APIs • HuggingFace
-
-### 🗄 Databases
-MongoDB • PostgreSQL • MySQL • Supabase • Pinecone
-
-### ☁️ Cloud & DevOps
-AWS • Azure • Google Cloud • Docker • Vercel
-
-### 🛠 Tools
-Git • GitHub • Postman • Swagger • Figma
+[![GitHub](https://img.shields.io/badge/GitHub-udemy--rag-000?style=flat-square&logo=github&logoColor=white)](https://github.com/arpan9422/udemy-rag)
 
 ---
 
-# 🏆 Achievements
+### PasteRoom
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=white)
 
-🏅 **Tech Head** — Techfiesta '26 (College flagship hackathon)
+Real-time file and text sharing platform with virtual rooms — no login required, secure Room ID-based sharing, and live collaboration.
 
-🏅 **Rank 44** — Bajaj Finserv HackRx '25 (1000+ teams)
+> **673+ users** in the first month &nbsp;·&nbsp; **Ranked #1 on Google** for multiple keywords
 
-🏅 **Top 100** — Google GenAI Exchange Hackathon
-
-🏅 **Top 10 Teams** — i.mobilothon 5.0 (Volkswagen)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpan9422&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan9422&theme=tokyonight"/>
-</p>
+[![Live](https://img.shields.io/badge/Live-pasteroom.in-000?style=flat-square&logo=vercel&logoColor=white)](https://pasteroom.in)
 
 ---
 
-# 📫 Let's Connect
+## Tech Stack
 
-📧 **Email:** arpanagrawal552@gmail.com  
+**Languages**
 
-💼 **LinkedIn:**  
-https://linkedin.com/in/arpan-agrawal-2a65a7275  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=white)
 
-💻 **GitHub:**  
-https://github.com/arpan9422  
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=flat-square&logo=huggingface&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-000?style=flat-square&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-⭐ *I enjoy building AI products, developer tools and scalable backend systems.  
-Always open to interesting collaborations.*
+## Achievements
+
+| Event | Result |
+|-------|--------|
+| Techfiesta '26 — College Flagship Hackathon | **Tech Head** |
+| Bajaj Finserv HackRx '25 — 1000+ teams | **Rank 44** |
+| Google GenAI Exchange Hackathon | **Top 100** |
+| i.mobilothon 5.0 — Volkswagen | **Top 10 Teams** |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpan9422&show_icons=true&theme=default&title_color=000&icon_color=000&text_color=333&bg_color=fff&border_color=000&border_radius=6" height="160" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan9422&theme=default&ring=000&fire=000&currStreakLabel=000&border=000&dates=333&border_radius=6" height="160" />
+</div>
+
+---
+
+<div align="center">
+
+*Always open to interesting collaborations in AI products, developer tools, and scalable backend systems.*
+
+[![GitHub](https://img.shields.io/badge/github.com/arpan9422-000?style=flat-square&logo=github&logoColor=white)](https://github.com/arpan9422)
+
+</div>
