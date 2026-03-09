@@ -42,6 +42,8 @@ Built **20+ production REST APIs** using Node.js, TypeScript, Prisma, and Postgr
 
 An AI-powered platform aggregating engineering blogs from Google, Netflix, Meta, AWS, and Stripe. Features an automated blog ingestion pipeline, RAG-based summarization, semantic search via vector embeddings, and AI-generated developer insights.
 
+> **500+ Blogs** sumaries avaliable &nbsp;·&nbsp;
+
 [![Live](https://img.shields.io/badge/Live-stackwise.in-000?style=flat-square&logo=vercel&logoColor=white)](https://stackwise.in)
 
 ---
