@@ -14,9 +14,8 @@
 
 ## About
 
-**B.E. Electronics & Telecommunication** — Pune Institute of Computer Technology &nbsp;·&nbsp; **CGPA: 9.68**
 
-I build AI-powered products, scalable backend systems, and developer tools. My focus is turning complex AI ideas into real-world, production-grade applications.
+I build **AI-powered** products, scalable backend systems, and developer tools. My focus is turning complex AI ideas into real-world, production-grade applications.
 
 Currently working on **RAG pipelines**, **LLM applications**, **high-performance Node.js backends**, and **AI developer platforms**.
 
