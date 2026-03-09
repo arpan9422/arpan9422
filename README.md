@@ -144,7 +144,6 @@ Real-time file and text sharing platform with virtual rooms — no login require
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpan9422&show_icons=true&theme=default&title_color=000&icon_color=000&text_color=333&bg_color=fff&border_color=000&border_radius=6" height="160" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan9422&theme=default&ring=000&fire=000&currStreakLabel=000&border=000&dates=333&border_radius=6" height="160" />
 </div>
